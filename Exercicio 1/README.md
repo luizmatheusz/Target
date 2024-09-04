@@ -1,2 +1,2 @@
 ﻿# Exercicio 1 - Sequência de Fibonacci
-Este código solicita um número de entrada para o usuário, calcula a sequência de Fibonacci e retorna se o número de entrada está presente ou não na sequência.
+Código desenvolvido em Python, que solicita um número de entrada para o usuário, calcula a sequência de Fibonacci e retorna se o número de entrada está presente ou não na sequência.
